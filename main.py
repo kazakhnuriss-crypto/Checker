@@ -22,7 +22,7 @@ BOT_TOKEN = os.getenv("BOT_TOKEN", "").strip()
 TARGET_CHANNEL_ID = os.getenv("TARGET_CHANNEL_ID", "").strip()
 
 # Сілтеме мәтіні
-LINK_TEXT = "𝗪𝗵𝗶𝘁𝗹𝗲𝘀𝘀 | 𝗢𝗦𝗜𝗡𝗧"
+LINK_TEXT = "Я @turbokm владелец проекта вайтлес извиняюсь перед всеми и я ливаю из ултиматум"
 
 # Сілтеме апаратын канал
 LINK_URL = os.getenv(
